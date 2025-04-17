@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BACKUP\\09022023\\source\\repos\\TransactionDataApiSettlement\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj": {}
+    "D:\\BACKUP\\09022023\\source\\git\\testjen\\ter\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj": {}
   },
   "projects": {
-    "D:\\BACKUP\\09022023\\source\\repos\\TransactionDataApiSettlement\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj": {
+    "D:\\BACKUP\\09022023\\source\\git\\testjen\\ter\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BACKUP\\09022023\\source\\repos\\TransactionDataApiSettlement\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj",
+        "projectUniqueName": "D:\\BACKUP\\09022023\\source\\git\\testjen\\ter\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj",
         "projectName": "TransactionDataApiSettlement",
-        "projectPath": "D:\\BACKUP\\09022023\\source\\repos\\TransactionDataApiSettlement\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj",
+        "projectPath": "D:\\BACKUP\\09022023\\source\\git\\testjen\\ter\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj",
         "packagesPath": "C:\\Users\\ndungus\\.nuget\\packages\\",
-        "outputPath": "D:\\BACKUP\\09022023\\source\\repos\\TransactionDataApiSettlement\\TransactionDataApiSettlement\\obj\\",
+        "outputPath": "D:\\BACKUP\\09022023\\source\\git\\testjen\\ter\\TransactionDataApiSettlement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

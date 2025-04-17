@@ -28,10 +28,11 @@ pipeline {
       }
     }
  }
-      
-}
-post {
+
+ post {
  SUCCESS {
    echo 'Build, test, and publish successful!'
  }
+}
+      
 }

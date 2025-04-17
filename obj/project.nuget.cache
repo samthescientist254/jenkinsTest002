@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "61DPMi2Q8PcnyEUA2lo50GokT7p2v3hCxL5iddtPWmRBQiXJQam9398fnSJoEfPyR72C77sAJ/AsR7JlLW09Ww==",
+  "dgSpecHash": "lMiJnGXVRsI5Wq/oxo2VrgT01Hsvfrle4y9P16SdlaK4Wtmb9+TTuvgHIgNatF/dqQtcve0HucRPRhvAsuZhEg==",
   "success": true,
-  "projectFilePath": "D:\\BACKUP\\09022023\\source\\repos\\TransactionDataApiSettlement\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj",
+  "projectFilePath": "D:\\BACKUP\\09022023\\source\\git\\testjen\\ter\\TransactionDataApiSettlement\\TransactionDataApiSettlement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ndungus\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ndungus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
