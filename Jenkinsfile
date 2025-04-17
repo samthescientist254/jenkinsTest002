@@ -30,7 +30,7 @@ pipeline {
  }
 
  post {
- SUCCESS {
+ success {
    echo 'Build, test, and publish successful!'
  }
 }
