@@ -1,0 +1,393 @@
+06/07/2023 07:48:36
+Transaction  API
+start_date
+06/07/2023 07:48:36
+Transaction  API
+01-04-2023
+06/07/2023 07:48:53
+Transaction  API
+END_DATE
+06/07/2023 07:48:57
+Transaction  API
+01-05-2023
+06/07/2023 07:48:59
+Transaction  API
+STAN
+06/07/2023 07:48:59
+Transaction  API
+
+06/07/2023 07:49:01
+Transaction  API
+RRN
+06/07/2023 07:49:02
+Transaction  API
+
+06/07/2023 07:49:30
+Transaction  API
+querry
+06/07/2023 07:49:31
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04/01/2023 00:00:00' and '05/01/2023 00:00:00'
+06/07/2023 07:49:31
+Transaction  API
+Transactions
+06/07/2023 07:49:31
+Transaction  API
+Transactions
+06/07/2023 07:49:32
+Transaction  API
+[]
+06/07/2023 07:49:46
+Transaction  API
+start_date
+06/07/2023 07:49:46
+Transaction  API
+01-04-2023
+06/07/2023 07:49:46
+Transaction  API
+END_DATE
+06/07/2023 07:49:46
+Transaction  API
+01-06-2023
+06/07/2023 07:49:46
+Transaction  API
+STAN
+06/07/2023 07:49:46
+Transaction  API
+
+06/07/2023 07:49:46
+Transaction  API
+RRN
+06/07/2023 07:49:46
+Transaction  API
+
+06/07/2023 07:49:46
+Transaction  API
+querry
+06/07/2023 07:49:47
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04/01/2023 00:00:00' and '06/01/2023 00:00:00'
+06/07/2023 07:49:47
+Transaction  API
+Transactions
+06/07/2023 07:49:47
+Transaction  API
+Transactions
+06/07/2023 07:49:47
+Transaction  API
+[]
+06/07/2023 07:50:14
+Transaction  API
+start_date
+06/07/2023 07:50:14
+Transaction  API
+01-04-2023
+06/07/2023 07:50:14
+Transaction  API
+END_DATE
+06/07/2023 07:50:14
+Transaction  API
+02-06-2023
+06/07/2023 07:50:14
+Transaction  API
+STAN
+06/07/2023 07:50:14
+Transaction  API
+
+06/07/2023 07:50:14
+Transaction  API
+RRN
+06/07/2023 07:50:14
+Transaction  API
+
+06/07/2023 07:50:14
+Transaction  API
+querry
+06/07/2023 07:50:15
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04/01/2023 00:00:00' and '06/02/2023 00:00:00'
+06/07/2023 07:50:15
+Transaction  API
+Transactions
+06/07/2023 07:50:15
+Transaction  API
+Transactions
+06/07/2023 07:50:15
+Transaction  API
+[]
+06/07/2023 07:52:14
+Transaction  API
+start_date
+06/07/2023 07:52:14
+Transaction  API
+01-04-2023
+06/07/2023 07:52:15
+Transaction  API
+END_DATE
+06/07/2023 07:52:15
+Transaction  API
+01-06-2023
+06/07/2023 07:52:15
+Transaction  API
+STAN
+06/07/2023 07:52:15
+Transaction  API
+
+06/07/2023 07:52:16
+Transaction  API
+RRN
+06/07/2023 07:52:17
+Transaction  API
+
+06/07/2023 08:03:47
+Transaction  API
+querry
+06/07/2023 08:03:48
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04/01/2023 00:00:00' and '06/01/2023 00:00:00'
+06/07/2023 08:03:49
+Transaction  API
+Transactions
+06/07/2023 08:03:49
+Transaction  API
+Transactions
+06/07/2023 08:03:49
+Transaction  API
+[{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"663673673653","transactionReference":"663673673653","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-23T00:00:00","transactionAmount":780000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1001155","pan":"5217-xxxx-xxxx-0021","retrievalReferenceNumber":"111155","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]
+06/07/2023 08:09:34
+Transaction  API
+start_date
+06/07/2023 08:09:34
+Transaction  API
+01-04-2023
+06/07/2023 08:09:34
+Transaction  API
+END_DATE
+06/07/2023 08:09:34
+Transaction  API
+01-05-2023
+06/07/2023 08:09:34
+Transaction  API
+STAN
+06/07/2023 08:09:35
+Transaction  API
+
+06/07/2023 08:09:35
+Transaction  API
+RRN
+06/07/2023 08:09:35
+Transaction  API
+
+06/07/2023 08:10:54
+Transaction  API
+querry
+06/07/2023 08:10:57
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04/01/2023 00:00:00' and '05/01/2023 00:00:00'
+06/07/2023 08:10:57
+Transaction  API
+Transactions
+06/07/2023 08:10:57
+Transaction  API
+Transactions
+06/07/2023 08:10:57
+Transaction  API
+[{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"663673673653","transactionReference":"663673673653","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-23T00:00:00","transactionAmount":780000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1001155","pan":"5217-xxxx-xxxx-0021","retrievalReferenceNumber":"111155","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]
+06/07/2023 08:13:53
+Transaction  API
+start_date
+06/07/2023 08:13:53
+Transaction  API
+01-04-2023
+06/07/2023 08:13:53
+Transaction  API
+END_DATE
+06/07/2023 08:13:53
+Transaction  API
+01-05-2023
+06/07/2023 08:13:53
+Transaction  API
+STAN
+06/07/2023 08:13:53
+Transaction  API
+
+06/07/2023 08:13:53
+Transaction  API
+RRN
+06/07/2023 08:13:53
+Transaction  API
+
+06/07/2023 08:13:53
+Transaction  API
+querry
+06/07/2023 08:13:54
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04/01/2023 00:00:00' and '05/01/2023 00:00:00'
+06/07/2023 08:13:54
+Transaction  API
+Transactions
+06/07/2023 08:13:54
+Transaction  API
+Transactions
+06/07/2023 08:13:54
+Transaction  API
+[{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"663673673653","transactionReference":"663673673653","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-23T00:00:00","transactionAmount":780000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1001155","pan":"5217-xxxx-xxxx-0021","retrievalReferenceNumber":"111155","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]
+06/07/2023 08:20:32
+Transaction  API
+start_date
+06/07/2023 08:20:32
+Transaction  API
+01-04-2023
+06/07/2023 08:20:32
+Transaction  API
+END_DATE
+06/07/2023 08:20:32
+Transaction  API
+01-05-2023
+06/07/2023 08:20:32
+Transaction  API
+STAN
+06/07/2023 08:20:32
+Transaction  API
+
+06/07/2023 08:20:32
+Transaction  API
+RRN
+06/07/2023 08:20:32
+Transaction  API
+
+06/07/2023 08:21:01
+Transaction  API
+start_date
+06/07/2023 08:21:02
+Transaction  API
+01-04-2023
+06/07/2023 08:21:02
+Transaction  API
+END_DATE
+06/07/2023 08:21:02
+Transaction  API
+01-05-2023
+06/07/2023 08:21:02
+Transaction  API
+STAN
+06/07/2023 08:21:02
+Transaction  API
+
+06/07/2023 08:21:03
+Transaction  API
+RRN
+06/07/2023 08:21:03
+Transaction  API
+
+06/07/2023 08:22:24
+Transaction  API
+start_date
+06/07/2023 08:22:24
+Transaction  API
+01-04-2023
+06/07/2023 08:22:24
+Transaction  API
+END_DATE
+06/07/2023 08:22:24
+Transaction  API
+01-04-2023
+06/07/2023 08:22:25
+Transaction  API
+STAN
+06/07/2023 08:22:25
+Transaction  API
+
+06/07/2023 08:22:25
+Transaction  API
+RRN
+06/07/2023 08:22:25
+Transaction  API
+
+06/07/2023 08:25:01
+Transaction  API
+start_date
+06/07/2023 08:25:01
+Transaction  API
+01-04-2023
+06/07/2023 08:25:01
+Transaction  API
+END_DATE
+06/07/2023 08:25:01
+Transaction  API
+01-05-2023
+06/07/2023 08:25:01
+Transaction  API
+STAN
+06/07/2023 08:25:02
+Transaction  API
+
+06/07/2023 08:25:02
+Transaction  API
+RRN
+06/07/2023 08:25:02
+Transaction  API
+
+06/07/2023 08:31:41
+Transaction  API
+start_date
+06/07/2023 08:31:41
+Transaction  API
+01-04-2023
+06/07/2023 08:31:41
+Transaction  API
+END_DATE
+06/07/2023 08:31:42
+Transaction  API
+01-05-2023
+06/07/2023 08:31:42
+Transaction  API
+STAN
+06/07/2023 08:31:42
+Transaction  API
+
+06/07/2023 08:31:42
+Transaction  API
+RRN
+06/07/2023 08:31:42
+Transaction  API
+
+06/07/2023 08:37:36
+Transaction  API
+start_date
+06/07/2023 08:37:36
+Transaction  API
+01-04-2023
+06/07/2023 08:37:36
+Transaction  API
+END_DATE
+06/07/2023 08:37:36
+Transaction  API
+01-05-2023
+06/07/2023 08:37:37
+Transaction  API
+STAN
+06/07/2023 08:37:37
+Transaction  API
+
+06/07/2023 08:37:37
+Transaction  API
+RRN
+06/07/2023 08:37:37
+Transaction  API
+
+06/07/2023 08:37:50
+Transaction  API
+querry
+06/07/2023 08:37:51
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04-01-2023 00:00:00' and '05-01-2023 00:00:00'
+06/07/2023 08:37:51
+Transaction  API
+Transactions
+06/07/2023 08:37:51
+Transaction  API
+Transactions
+06/07/2023 08:37:52
+Transaction  API
+[{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"663673673653","transactionReference":"663673673653","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-23T00:00:00","transactionAmount":780000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1001155","pan":"5217-xxxx-xxxx-0021","retrievalReferenceNumber":"111155","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]

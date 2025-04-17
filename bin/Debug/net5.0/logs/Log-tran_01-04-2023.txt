@@ -1,0 +1,84 @@
+01/04/2023 09:03:24
+Einsurance API
+start_date
+01/04/2023 09:03:24
+Einsurance API
+01-10-2018
+01/04/2023 09:03:25
+Einsurance API
+END_DATE
+01/04/2023 09:03:25
+Einsurance API
+11-10-2018
+01/04/2023 09:03:25
+Einsurance API
+STAN
+01/04/2023 09:03:25
+Einsurance API
+
+01/04/2023 09:03:26
+Einsurance API
+RRN
+01/04/2023 09:03:26
+Einsurance API
+
+01/04/2023 09:06:34
+Einsurance API
+querry
+01/04/2023 09:06:34
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '01/10/2018 00:00:00' and '11/10/2018 00:00:00'
+01/04/2023 09:23:59
+Einsurance API
+start_date
+01/04/2023 09:24:02
+Einsurance API
+1-10-2018
+01/04/2023 09:24:02
+Einsurance API
+END_DATE
+01/04/2023 09:24:03
+Einsurance API
+11-10-2018
+01/04/2023 09:24:03
+Einsurance API
+STAN
+01/04/2023 09:24:03
+Einsurance API
+
+01/04/2023 09:24:03
+Einsurance API
+RRN
+01/04/2023 09:24:04
+Einsurance API
+
+01/04/2023 09:24:27
+Einsurance API
+start_date
+01/04/2023 09:24:27
+Einsurance API
+01-10-2018
+01/04/2023 09:24:28
+Einsurance API
+END_DATE
+01/04/2023 09:24:28
+Einsurance API
+11-10-2018
+01/04/2023 09:24:28
+Einsurance API
+STAN
+01/04/2023 09:24:28
+Einsurance API
+
+01/04/2023 09:24:28
+Einsurance API
+RRN
+01/04/2023 09:24:29
+Einsurance API
+
+01/04/2023 09:24:35
+Einsurance API
+querry
+01/04/2023 09:24:36
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '01/10/2018 00:00:00' and '11/10/2018 00:00:00'

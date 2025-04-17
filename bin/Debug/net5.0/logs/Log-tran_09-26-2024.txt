@@ -1,0 +1,156 @@
+09/26/2024 06:18:16
+Transaction  API
+start_date
+09/26/2024 06:18:16
+Transaction  API
+2024-08-01
+09/26/2024 06:18:17
+Transaction  API
+END_DATE
+09/26/2024 06:18:17
+Transaction  API
+2024-09-26
+09/26/2024 06:18:17
+Transaction  API
+STAN
+09/26/2024 06:18:17
+Transaction  API
+
+09/26/2024 06:18:18
+Transaction  API
+RRN
+09/26/2024 06:18:18
+Transaction  API
+
+09/26/2024 06:20:28
+Transaction  API
+start_date
+09/26/2024 06:20:30
+Transaction  API
+2024-08-01
+09/26/2024 06:20:31
+Transaction  API
+END_DATE
+09/26/2024 06:20:31
+Transaction  API
+2024-09-27
+09/26/2024 06:20:31
+Transaction  API
+STAN
+09/26/2024 06:20:31
+Transaction  API
+
+09/26/2024 06:20:31
+Transaction  API
+RRN
+09/26/2024 06:20:32
+Transaction  API
+
+09/26/2024 06:32:21
+Transaction  API
+uniquekey000035024003
+09/26/2024 06:34:39
+Transaction  API
+uniquekey000035024003
+09/26/2024 06:34:42
+Transaction  API
+uniquekey000035024003
+09/26/2024 07:28:44
+Transaction  API
+start_date
+09/26/2024 07:28:44
+Transaction  API
+01-08-2024
+09/26/2024 07:28:45
+Transaction  API
+END_DATE
+09/26/2024 07:28:45
+Transaction  API
+30-09-2024
+09/26/2024 07:28:45
+Transaction  API
+STAN
+09/26/2024 07:28:45
+Transaction  API
+
+09/26/2024 07:28:45
+Transaction  API
+RRN
+09/26/2024 07:28:46
+Transaction  API
+
+09/26/2024 07:28:55
+Transaction  API
+querry
+09/26/2024 07:30:40
+Transaction  API
+start_date
+09/26/2024 07:30:40
+Transaction  API
+20-08-2024
+09/26/2024 07:30:41
+Transaction  API
+END_DATE
+09/26/2024 07:30:41
+Transaction  API
+25-08-2024
+09/26/2024 07:30:41
+Transaction  API
+STAN
+09/26/2024 07:30:41
+Transaction  API
+
+09/26/2024 07:30:42
+Transaction  API
+RRN
+09/26/2024 07:30:42
+Transaction  API
+
+09/26/2024 07:31:06
+Transaction  API
+querry
+09/26/2024 07:31:23
+Transaction  API
+Transactions
+09/26/2024 07:31:23
+Transaction  API
+Transactions
+09/26/2024 07:31:23
+Transaction  API
+[{"issuerCode":"506153","issuer":"Interconnect","issuerCountry":"KE","acquirer":"DIB Bank Kenya","acquirerCode":"507654    ","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000102396383","transactionReference":"000102396383","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2024-08-20T00:00:00","transactionAmount":20000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00101","stan":"7857","pan":"506153******I3A7","retrievalReferenceNumber":"227443","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB UPPERHILL HQ       NAIROBI        KE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"506183","issuer":"Paynet VERVE","issuerCountry":"KE","acquirer":"VERVE CROSS BORDER","acquirerCode":"200012","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000035059761","transactionReference":"000035059761","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2024-08-23T00:00:00","transactionAmount":1000000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"100CB003","stan":"4188","pan":"506183******2844","retrievalReferenceNumber":"227444","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"CAIRO KAMPALA ROAD UG  KAMPALA      00UG","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"506183","issuer":"Paynet VERVE","issuerCountry":"KE","acquirer":"VERVE CROSS BORDER","acquirerCode":"200012","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000035024003","transactionReference":"000035024003","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2024-08-20T00:00:00","transactionAmount":1000000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"100CB003","stan":"4090","pan":"506183******2844","retrievalReferenceNumber":"227456","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"CAIRO KAMPALA ROAD UG  KAMPALA      00UG","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]
+09/26/2024 07:31:51
+Transaction  API
+start_date
+09/26/2024 07:31:51
+Transaction  API
+20-08-2024
+09/26/2024 07:31:52
+Transaction  API
+END_DATE
+09/26/2024 07:31:52
+Transaction  API
+25-08-2024
+09/26/2024 07:31:52
+Transaction  API
+STAN
+09/26/2024 07:31:52
+Transaction  API
+
+09/26/2024 07:31:52
+Transaction  API
+RRN
+09/26/2024 07:31:53
+Transaction  API
+000102396383
+09/26/2024 07:31:56
+Transaction  API
+querry
+09/26/2024 07:32:05
+Transaction  API
+Transactions
+09/26/2024 07:32:05
+Transaction  API
+Transactions
+09/26/2024 07:32:05
+Transaction  API
+[{"issuerCode":"506153","issuer":"Interconnect","issuerCountry":"KE","acquirer":"DIB Bank Kenya","acquirerCode":"507654    ","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000102396383","transactionReference":"000102396383","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2024-08-20T00:00:00","transactionAmount":20000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00101","stan":"7857","pan":"506153******I3A7","retrievalReferenceNumber":"227443","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB UPPERHILL HQ       NAIROBI        KE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]

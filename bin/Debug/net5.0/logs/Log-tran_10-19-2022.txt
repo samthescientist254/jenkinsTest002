@@ -1,0 +1,294 @@
+10/19/2022 15:10:41
+Einsurance API
+start_date
+10/19/2022 15:10:43
+Einsurance API
+06-18-2022
+10/19/2022 15:10:43
+Einsurance API
+END_DATE
+10/19/2022 15:10:43
+Einsurance API
+06-23-2022
+10/19/2022 15:10:44
+Einsurance API
+STAN
+10/19/2022 15:10:44
+Einsurance API
+
+10/19/2022 15:10:44
+Einsurance API
+RRN
+10/19/2022 15:10:44
+Einsurance API
+
+10/19/2022 15:14:04
+Einsurance API
+start_date
+10/19/2022 15:14:06
+Einsurance API
+18-06-2022
+10/19/2022 15:14:06
+Einsurance API
+END_DATE
+10/19/2022 15:14:06
+Einsurance API
+23-06-2022
+10/19/2022 15:14:06
+Einsurance API
+STAN
+10/19/2022 15:14:07
+Einsurance API
+
+10/19/2022 15:14:07
+Einsurance API
+RRN
+10/19/2022 15:14:07
+Einsurance API
+
+10/19/2022 15:14:16
+Einsurance API
+querry
+10/19/2022 15:14:16
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '06/18/2022 12:00:00 AM' and '06/23/2022 12:00:00 AM'
+10/19/2022 15:14:20
+Einsurance API
+Transactions
+10/19/2022 15:14:21
+Einsurance API
+Transactions
+10/19/2022 15:14:22
+Einsurance API
+[]
+10/19/2022 15:15:26
+Einsurance API
+start_date
+10/19/2022 15:15:27
+Einsurance API
+18-06-2022
+10/19/2022 15:15:27
+Einsurance API
+END_DATE
+10/19/2022 15:15:28
+Einsurance API
+23-06-2022
+10/19/2022 15:15:28
+Einsurance API
+STAN
+10/19/2022 15:15:28
+Einsurance API
+
+10/19/2022 15:15:28
+Einsurance API
+RRN
+10/19/2022 15:15:29
+Einsurance API
+
+10/19/2022 15:15:36
+Einsurance API
+querry
+10/19/2022 15:15:36
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '06/18/2022 12:00:00 AM' and '06/23/2022 12:00:00 AM'
+10/19/2022 15:15:46
+Einsurance API
+Transactions
+10/19/2022 15:15:46
+Einsurance API
+Transactions
+10/19/2022 15:15:46
+Einsurance API
+[]
+10/19/2022 15:15:53
+Einsurance API
+start_date
+10/19/2022 15:15:53
+Einsurance API
+18-06-2022
+10/19/2022 15:15:53
+Einsurance API
+END_DATE
+10/19/2022 15:15:53
+Einsurance API
+23-06-2022
+10/19/2022 15:15:53
+Einsurance API
+STAN
+10/19/2022 15:15:53
+Einsurance API
+
+10/19/2022 15:15:53
+Einsurance API
+RRN
+10/19/2022 15:15:53
+Einsurance API
+
+10/19/2022 15:15:54
+Einsurance API
+querry
+10/19/2022 15:15:54
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '06/18/2022 12:00:00 AM' and '06/23/2022 12:00:00 AM'
+10/19/2022 15:15:54
+Einsurance API
+Transactions
+10/19/2022 15:15:54
+Einsurance API
+Transactions
+10/19/2022 15:15:54
+Einsurance API
+[]
+10/19/2022 15:16:05
+Einsurance API
+start_date
+10/19/2022 15:16:05
+Einsurance API
+18-06-2020
+10/19/2022 15:16:05
+Einsurance API
+END_DATE
+10/19/2022 15:16:06
+Einsurance API
+23-06-2020
+10/19/2022 15:16:06
+Einsurance API
+STAN
+10/19/2022 15:16:06
+Einsurance API
+
+10/19/2022 15:16:06
+Einsurance API
+RRN
+10/19/2022 15:16:06
+Einsurance API
+
+10/19/2022 15:16:11
+Einsurance API
+querry
+10/19/2022 15:16:12
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '06/18/2020 12:00:00 AM' and '06/23/2020 12:00:00 AM'
+10/19/2022 15:16:34
+Einsurance API
+start_date
+10/19/2022 15:16:34
+Einsurance API
+18-06-2020
+10/19/2022 15:16:34
+Einsurance API
+END_DATE
+10/19/2022 15:16:34
+Einsurance API
+23-06-2020
+10/19/2022 15:16:34
+Einsurance API
+STAN
+10/19/2022 15:16:35
+Einsurance API
+
+10/19/2022 15:16:35
+Einsurance API
+RRN
+10/19/2022 15:16:35
+Einsurance API
+
+10/19/2022 15:17:07
+Einsurance API
+querry
+10/19/2022 15:17:07
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '06/18/2020 12:00:00 AM' and '06/23/2020 12:00:00 AM'
+10/19/2022 15:23:33
+Einsurance API
+start_date
+10/19/2022 15:23:35
+Einsurance API
+18-06-2020
+10/19/2022 15:23:35
+Einsurance API
+END_DATE
+10/19/2022 15:23:35
+Einsurance API
+23-06-2020
+10/19/2022 15:23:35
+Einsurance API
+STAN
+10/19/2022 15:23:35
+Einsurance API
+
+10/19/2022 15:23:36
+Einsurance API
+RRN
+10/19/2022 15:23:36
+Einsurance API
+
+10/19/2022 15:31:29
+Einsurance API
+start_date
+10/19/2022 15:31:30
+Einsurance API
+18-06-2020
+10/19/2022 15:31:30
+Einsurance API
+END_DATE
+10/19/2022 15:31:30
+Einsurance API
+23-06-2020
+10/19/2022 15:31:30
+Einsurance API
+STAN
+10/19/2022 15:31:31
+Einsurance API
+
+10/19/2022 15:31:31
+Einsurance API
+RRN
+10/19/2022 15:31:31
+Einsurance API
+
+10/19/2022 15:31:37
+Einsurance API
+querry
+10/19/2022 15:31:37
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '06/18/2020 12:00:00 AM' and '06/23/2020 12:00:00 AM'
+10/19/2022 15:36:05
+Einsurance API
+start_date
+10/19/2022 15:36:05
+Einsurance API
+18-06-2020
+10/19/2022 15:36:05
+Einsurance API
+END_DATE
+10/19/2022 15:36:05
+Einsurance API
+23-06-2020
+10/19/2022 15:36:05
+Einsurance API
+STAN
+10/19/2022 15:36:05
+Einsurance API
+
+10/19/2022 15:36:05
+Einsurance API
+RRN
+10/19/2022 15:36:05
+Einsurance API
+
+10/19/2022 15:36:07
+Einsurance API
+querry
+10/19/2022 15:36:07
+Einsurance API
+SELECT * FROM dbo.shclog_non_ppt where LOCAL_DATE between '06/18/2020 12:00:00 AM' and '06/23/2020 12:00:00 AM'
+10/19/2022 15:36:12
+Einsurance API
+Transactions
+10/19/2022 15:36:12
+Einsurance API
+Transactions
+10/19/2022 15:36:12
+Einsurance API
+[]

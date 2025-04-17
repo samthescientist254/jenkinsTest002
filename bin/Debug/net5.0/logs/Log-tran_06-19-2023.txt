@@ -1,0 +1,39 @@
+06/19/2023 18:00:53
+Transaction  API
+start_date
+06/19/2023 18:00:53
+Transaction  API
+01-04-2023
+06/19/2023 18:01:02
+Transaction  API
+END_DATE
+06/19/2023 18:01:02
+Transaction  API
+01-05-2023
+06/19/2023 18:01:02
+Transaction  API
+STAN
+06/19/2023 18:01:02
+Transaction  API
+
+06/19/2023 18:01:02
+Transaction  API
+RRN
+06/19/2023 18:01:02
+Transaction  API
+
+06/19/2023 18:01:08
+Transaction  API
+querry
+06/19/2023 18:01:11
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '04-01-2023 00:00:00' and '05-01-2023 00:00:00'
+06/19/2023 18:01:29
+Transaction  API
+Transactions
+06/19/2023 18:01:29
+Transaction  API
+Transactions
+06/19/2023 18:01:29
+Transaction  API
+[{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"663673673653","transactionReference":"663673673653","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-23T00:00:00","transactionAmount":780000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1001155","pan":"521759******0021","retrievalReferenceNumber":"111155","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"9978786766","transactionReference":"9978786766","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-24T00:00:00","transactionAmount":750000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1331165","pan":"521759******0045","retrievalReferenceNumber":"111159","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"99877356355","transactionReference":"99877356355","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-23T00:00:00","transactionAmount":870000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1001155","pan":"521759******0021","retrievalReferenceNumber":"111161","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"6273653237","transactionReference":"6273653237","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-02T11:35:09","transactionAmount":450000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"21332267","pan":"521759******0024","retrievalReferenceNumber":"111163","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"521759","issuer":"IBoS BANK","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"8737267362","transactionReference":"8737267362","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-04-24T00:00:00","transactionAmount":890000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"IBS00102","stan":"1331165","pan":"521759******0045","retrievalReferenceNumber":"111164","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"IBS MAIN BR            SOMALIA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]

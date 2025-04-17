@@ -1,0 +1,255 @@
+09/04/2023 16:19:17
+Transaction  API
+start_date
+09/04/2023 16:19:17
+Transaction  API
+01-07-2023
+09/04/2023 16:19:17
+Transaction  API
+END_DATE
+09/04/2023 16:19:17
+Transaction  API
+30-07-2023
+09/04/2023 16:19:17
+Transaction  API
+STAN
+09/04/2023 16:19:17
+Transaction  API
+
+09/04/2023 16:19:17
+Transaction  API
+RRN
+09/04/2023 16:19:17
+Transaction  API
+
+09/04/2023 16:21:18
+Transaction  API
+start_date
+09/04/2023 16:21:18
+Transaction  API
+01-07-2023
+09/04/2023 16:21:18
+Transaction  API
+END_DATE
+09/04/2023 16:21:18
+Transaction  API
+01-08-2023
+09/04/2023 16:21:18
+Transaction  API
+STAN
+09/04/2023 16:21:18
+Transaction  API
+
+09/04/2023 16:21:18
+Transaction  API
+RRN
+09/04/2023 16:21:18
+Transaction  API
+
+09/04/2023 16:21:18
+Transaction  API
+querry
+09/04/2023 16:21:18
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '07-01-2023 00:00:00' and '08-01-2023 00:00:00'
+09/04/2023 16:21:18
+Transaction  API
+Transactions
+09/04/2023 16:21:18
+Transaction  API
+Transactions
+09/04/2023 16:21:19
+Transaction  API
+[{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198237","transactionReference":"000010198237","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":0.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"485","pan":"464122******6008","retrievalReferenceNumber":"117885","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198240","transactionReference":"000010198240","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":1760000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"488","pan":"464122******6008","retrievalReferenceNumber":"117886","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198243","transactionReference":"000010198243","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":300000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"490","pan":"464122******6008","retrievalReferenceNumber":"117887","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198246","transactionReference":"000010198246","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":180000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"492","pan":"464122******6008","retrievalReferenceNumber":"117888","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"999777","issuer":"MPESA","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198270","transactionReference":"000010198270","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":20000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"5263","pan":"999777******KIe0","retrievalReferenceNumber":"117889","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198377","transactionReference":"000010198377","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":80000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"495","pan":"464122******6008","retrievalReferenceNumber":"117890","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198390","transactionReference":"000010198390","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":40000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"496","pan":"464122******6008","retrievalReferenceNumber":"117891","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198392","transactionReference":"000010198392","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":10000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"498","pan":"464122******6008","retrievalReferenceNumber":"117892","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198394","transactionReference":"000010198394","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":40000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"500","pan":"464122******6008","retrievalReferenceNumber":"117893","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198594","transactionReference":"000010198594","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":0.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"501","pan":"464122******6008","retrievalReferenceNumber":"117894","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198601","transactionReference":"000010198601","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":500000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"502","pan":"464122******6008","retrievalReferenceNumber":"117895","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"91","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198601","transactionReference":"000010198601","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":500000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"502","pan":"464122******6008","retrievalReferenceNumber":"117896","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"94","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198602","transactionReference":"000010198602","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":500000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"503","pan":"464122******6008","retrievalReferenceNumber":"117897","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198605","transactionReference":"000010198605","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":40000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"504","pan":"464122******6008","retrievalReferenceNumber":"117898","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198608","transactionReference":"000010198608","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":2710000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"505","pan":"464122******6008","retrievalReferenceNumber":"117899","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198625","transactionReference":"000010198625","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":180000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"507","pan":"464122******6008","retrievalReferenceNumber":"117900","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"51","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198626","transactionReference":"000010198626","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":20000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"508","pan":"464122******6008","retrievalReferenceNumber":"117901","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"51","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198648","transactionReference":"000010198648","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":0.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"512","pan":"464122******6008","retrievalReferenceNumber":"117902","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198652","transactionReference":"000010198652","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":0.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"516","pan":"464122******6008","retrievalReferenceNumber":"117903","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198655","transactionReference":"000010198655","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":200000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"519","pan":"464122******6008","retrievalReferenceNumber":"117904","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"999777","issuer":"MPESA","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198657","transactionReference":"000010198657","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":20000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"5274","pan":"999777******KIe0","retrievalReferenceNumber":"117905","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198667","transactionReference":"000010198667","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":70000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"522","pan":"464122******6008","retrievalReferenceNumber":"117906","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198669","transactionReference":"000010198669","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":180000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"523","pan":"464122******6008","retrievalReferenceNumber":"117907","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198672","transactionReference":"000010198672","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":10000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"525","pan":"464122******6008","retrievalReferenceNumber":"117908","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198672","transactionReference":"000010198672","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-08-01T00:00:00","transactionAmount":10000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"525","pan":"464122******6008","retrievalReferenceNumber":"117909","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"507654","issuer":"DIB Bank Keny","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"6565656665","transactionReference":"6565656665","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-23T00:00:00","transactionAmount":800000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00102","stan":"1001155","pan":"507654******0021","retrievalReferenceNumber":"117918","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB MAIN BR            KENYA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"507654","issuer":"DIB Bank Keny","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"3434554566","transactionReference":"3434554566","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-20T00:00:00","transactionAmount":899000.00000000,"transactionType":"BillPayment","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00102","stan":"22334435","pan":"507654******0020","retrievalReferenceNumber":"117919","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB MAIN BR            KENYA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"507654","issuer":"DIB Bank Keny","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"878777878","transactionReference":"878777878","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-22T00:00:00","transactionAmount":1000000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00102","stan":"10293345","pan":"507654******0034","retrievalReferenceNumber":"117922","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB MAIN BR            KENYA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]
+09/04/2023 16:22:16
+Transaction  API
+start_date
+09/04/2023 16:22:16
+Transaction  API
+01-07-2023
+09/04/2023 16:22:16
+Transaction  API
+END_DATE
+09/04/2023 16:22:16
+Transaction  API
+30-08-2023
+09/04/2023 16:22:16
+Transaction  API
+STAN
+09/04/2023 16:22:16
+Transaction  API
+
+09/04/2023 16:22:16
+Transaction  API
+RRN
+09/04/2023 16:22:16
+Transaction  API
+
+09/04/2023 16:22:56
+Transaction  API
+start_date
+09/04/2023 16:22:57
+Transaction  API
+01-07-2023
+09/04/2023 16:22:58
+Transaction  API
+END_DATE
+09/04/2023 16:22:58
+Transaction  API
+30-07-2023
+09/04/2023 16:23:01
+Transaction  API
+STAN
+09/04/2023 16:23:01
+Transaction  API
+
+09/04/2023 16:23:02
+Transaction  API
+RRN
+09/04/2023 16:23:02
+Transaction  API
+
+09/04/2023 16:26:12
+Transaction  API
+start_date
+09/04/2023 16:26:13
+Transaction  API
+01-07-2023
+09/04/2023 16:26:13
+Transaction  API
+END_DATE
+09/04/2023 16:26:13
+Transaction  API
+30-07-2023
+09/04/2023 16:26:14
+Transaction  API
+STAN
+09/04/2023 16:26:14
+Transaction  API
+
+09/04/2023 16:26:14
+Transaction  API
+RRN
+09/04/2023 16:26:14
+Transaction  API
+
+09/04/2023 16:28:50
+Transaction  API
+start_date
+09/04/2023 16:28:50
+Transaction  API
+01-07-2023
+09/04/2023 16:28:50
+Transaction  API
+END_DATE
+09/04/2023 16:28:51
+Transaction  API
+30-07-2023
+09/04/2023 16:28:51
+Transaction  API
+STAN
+09/04/2023 16:28:51
+Transaction  API
+
+09/04/2023 16:28:52
+Transaction  API
+RRN
+09/04/2023 16:28:52
+Transaction  API
+
+09/04/2023 16:29:04
+Transaction  API
+querry
+09/04/2023 16:29:04
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '01-07-2023 00:00:00' and '30-07-2023 00:00:00'
+09/04/2023 16:29:33
+Transaction  API
+start_date
+09/04/2023 16:29:33
+Transaction  API
+01-07-2023
+09/04/2023 16:29:34
+Transaction  API
+END_DATE
+09/04/2023 16:29:34
+Transaction  API
+30-07-2023
+09/04/2023 16:29:34
+Transaction  API
+STAN
+09/04/2023 16:29:34
+Transaction  API
+
+09/04/2023 16:29:34
+Transaction  API
+RRN
+09/04/2023 16:29:34
+Transaction  API
+
+09/04/2023 16:29:49
+Transaction  API
+querry
+09/04/2023 16:36:01
+Transaction  API
+start_date
+09/04/2023 16:36:02
+Transaction  API
+01-07-2023
+09/04/2023 16:36:09
+Transaction  API
+END_DATE
+09/04/2023 16:36:09
+Transaction  API
+31-07-2023
+09/04/2023 16:36:09
+Transaction  API
+STAN
+09/04/2023 16:36:10
+Transaction  API
+
+09/04/2023 16:36:10
+Transaction  API
+RRN
+09/04/2023 16:36:10
+Transaction  API
+
+09/04/2023 16:36:28
+Transaction  API
+querry
+09/04/2023 16:36:28
+Transaction  API
+SELECT * FROM dbo.shclog_non_ppt where REV_DATE IS  NULL and LOCAL_DATE between '07-01-2023 00:00:00' and '07-31-2023 00:00:00'
+09/04/2023 16:36:28
+Transaction  API
+Transactions
+09/04/2023 16:36:28
+Transaction  API
+Transactions
+09/04/2023 16:36:28
+Transaction  API
+[{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198237","transactionReference":"000010198237","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":0.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"485","pan":"464122******6008","retrievalReferenceNumber":"117885","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198240","transactionReference":"000010198240","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":1760000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"488","pan":"464122******6008","retrievalReferenceNumber":"117886","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198243","transactionReference":"000010198243","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":300000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"490","pan":"464122******6008","retrievalReferenceNumber":"117887","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198246","transactionReference":"000010198246","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":180000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"492","pan":"464122******6008","retrievalReferenceNumber":"117888","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"999777","issuer":"MPESA","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198270","transactionReference":"000010198270","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":20000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"5263","pan":"999777******KIe0","retrievalReferenceNumber":"117889","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198377","transactionReference":"000010198377","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":80000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"495","pan":"464122******6008","retrievalReferenceNumber":"117890","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198390","transactionReference":"000010198390","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":40000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"496","pan":"464122******6008","retrievalReferenceNumber":"117891","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198392","transactionReference":"000010198392","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":10000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"498","pan":"464122******6008","retrievalReferenceNumber":"117892","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"464122","issuer":"Bank Of Baroda","issuerCountry":"KE","acquirer":"Bank Of Baroda","acquirerCode":"604612","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"000010198394","transactionReference":"000010198394","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-31T00:00:00","transactionAmount":40000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"BOB00001","stan":"500","pan":"464122******6008","retrievalReferenceNumber":"117893","cardScheme":"VISA","cardAcceptorCode":null,"cardAcceptorLocation":"BOB  HEAD OFFICE 1     NAIROBI      NAKE","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"507654","issuer":"DIB Bank Keny","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"6565656665","transactionReference":"6565656665","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-23T00:00:00","transactionAmount":800000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00102","stan":"1001155","pan":"507654******0021","retrievalReferenceNumber":"117918","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB MAIN BR            KENYA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"507654","issuer":"DIB Bank Keny","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"3434554566","transactionReference":"3434554566","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-20T00:00:00","transactionAmount":899000.00000000,"transactionType":"BillPayment","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00102","stan":"22334435","pan":"507654******0020","retrievalReferenceNumber":"117919","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB MAIN BR            KENYA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"},{"issuerCode":"507654","issuer":"DIB Bank Keny","issuerCountry":"KE","acquirer":"Equity Centre, Hospital Road, Upper Hill.","acquirerCode":"627851","acquirerCountry":"KE","merchantCode":"6011","merchant":"6011","merchantCountry":null,"merchantType":"REGULAR","merchantReference":null,"customerReference":"878777878","transactionReference":"878777878","transactionStore":"ISW_TRANSACTIONS","transactionDate":"2023-07-22T00:00:00","transactionAmount":1000000.00000000,"transactionType":"Cash Withdrawal","DatetransactionAmountadded":null,"surchargeAmount":null,"transactionCurrencyCode":"404","transactionRate":null,"settlementAmount":null,"settlementCurrencyCode":null,"settlementRate":null,"schemeAmount":null,"schemeCurrencyCode":null,"terminalType":"1","terminalId":"DIB00102","stan":"10293345","pan":"507654******0034","retrievalReferenceNumber":"117922","cardScheme":"MasterCard","cardAcceptorCode":null,"cardAcceptorLocation":"DIB MAIN BR            KENYA        SO","sourceNodeName":null,"sinkNodeName":null,"responseCode":"0","responseDescription":null,"settled":true,"additionalInfo":null,"region":"Kenya"}]
+09/04/2023 16:37:07
+Transaction  API
+start_date
+09/04/2023 16:37:07
+Transaction  API
+01-07-2023
+09/04/2023 16:37:08
+Transaction  API
+END_DATE
+09/04/2023 16:37:08
+Transaction  API
+31-07-2023
+09/04/2023 16:37:09
+Transaction  API
+STAN
+09/04/2023 16:37:09
+Transaction  API
+
+09/04/2023 16:37:09
+Transaction  API
+RRN
+09/04/2023 16:37:09
+Transaction  API
+
