@@ -6,10 +6,10 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["TransactionDataApiSettlement/TransactionDataApiSettlement.csproj", "TransactionDataApiSettlement/"]
-RUN dotnet restore "TransactionDataApiSettlement/TransactionDataApiSettlement.csproj"
+COPY ["TransactionDataApiSettlement.csproj", "TransactionDataApiSettlement/"]
+RUN dotnet restore "TransactionDataApiSettlement.csproj"
 COPY . .
-WORKDIR "/src/TransactionDataApiSettlement"
+WORKDIR "/src"
 RUN dotnet build "TransactionDataApiSettlement.csproj" -c Release -o /app/build
 
 FROM build AS publish
